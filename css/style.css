@@ -1,0 +1,15 @@
+nav{
+  background-color: rgb(240, 136, 0);
+}
+
+.navLinks{
+  display: flex;
+  align-items: center;
+}
+.navTodo{
+  display: flex;
+  justify-content: space-around;
+}
+.logoSena{
+  width: 6%;
+}
