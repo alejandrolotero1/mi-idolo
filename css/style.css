@@ -6,10 +6,27 @@ nav{
   display: flex;
   align-items: center;
 }
+.navLinks h3{
+  color: white;
+}
 .navTodo{
   display: flex;
   justify-content: space-around;
 }
+.logos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+}
+.fondoEmprender{
+  border-left: 1px solid white;
+  height: 80%;
+}
 .logoSena{
-  width: 6%;
+  width: 20%;
+}
+.LogoEmprender{
+  width: 60%;
+ align-items: center;
 }
